@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 
  
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-[![PYTHON](https://www.python.org/community/logos/Python-#E6526F?style=flat-square&logo=python&logoColor=#3776AB)]
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Jinyiji/TODO-List)
+ 
+
+![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
