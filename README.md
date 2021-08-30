@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 [![PS](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
 
 
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://visualstudio.microsoft.com/ko/)
 [![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/ko/)
