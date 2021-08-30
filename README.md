@@ -23,18 +23,19 @@ Here are some ideas to get you started:
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Jinyiji/TODO-List)
  
 
-![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&show_icons=true&theme=radical)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&layout=compact)](https://github.com/Jinyiji/github-readme-stats)
+
+
+![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&langs_count=8)](https://github.com/Jinyiji/github-readme-stats)
 
 
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jinyiji&repo=github-readme-stats)](https://github.com/JInyiji/github-readme-stats)
 
 
 
