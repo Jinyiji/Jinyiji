@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
  
 
-[![E](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](github.com/Jinyiji/TODO-List)
+[![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](github.com/Jinyiji/TODO-List)
 
 
 [![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visual studio&logoColor=black)](github.com/Jinyiji/TODO-List)
