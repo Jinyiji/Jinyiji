@@ -19,16 +19,18 @@ Here are some ideas to get you started:
 
 
  
-[![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/) [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](github.com/Jinyiji/TODO-List) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Jinyiji/TODO-List) 
+[![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/) [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](https://www.oracle.com/kr/java/) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://www.w3schools.com/js/default.asp) 
 
 
-[![PY](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](github.com/Jinyiji/TODO-List)
+[![PY](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white)](https://www.mysql.com/)
 
-[![PS](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](github.com/Jinyiji/TODO-List)
+
+[![PS](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
 
 
-[![ATOM](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white)](github.com/Jinyiji/TODO-List)
-[![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](github.com/Jinyiji/TODO-List) [![VSC](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](github.com/Jinyiji/TODO-List)
+[![ATOM](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white)](https://atom.io/)
+[![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/ko/) [![VSC](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://visualstudio.microsoft.com/ko/)
 
 
 <!--	
