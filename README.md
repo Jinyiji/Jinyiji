@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 
 
-[![Jinyiji's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jinyiji)](https://github.com/Jinyiji/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jinyiji&repo=github-readme-stats)](https://github.com/JInyiji/github-readme-stats)
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF5B91&title_bg=%239800BC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
