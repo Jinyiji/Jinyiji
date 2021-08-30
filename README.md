@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&layout=compact)](https://github.com/Jinyiji/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&langs_count=8)](https://github.com/Jinyiji/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&langs_count=8)](https://github.com/Jinyiji/github-readme-stats)
 
 
 
