@@ -20,18 +20,14 @@ Here are some ideas to get you started:
 
  
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Jinyiji/TODO-List)
-
-	
-[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](github.com/Jinyiji/TODO-List)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Jinyiji/TODO-List) [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](github.com/Jinyiji/TODO-List)
 
 
  
 
-[![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](github.com/Jinyiji/TODO-List)
+[![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](github.com/Jinyiji/TODO-List) [![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](github.com/Jinyiji/TODO-List)
 
 
-[![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](github.com/Jinyiji/TODO-List)
 
 <!--	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
