@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 
 
-[![Jinyiji's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinyiji)](https://github.com/Jinyiji/github-readme-stats)
-
 
 
 
