@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  
 
-[![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=withe)](github.com/Jinyiji/TODO-List)
+[![PY](https://www.python.org/community/logos/Python-3776AB?style=flat-square&logo=python&logoColor=withe)](github.com/Jinyiji/TODO-List)
 
 
 
