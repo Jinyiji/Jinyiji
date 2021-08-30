@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
  
-[![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/) [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](https://www.oracle.com/kr/java/) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://www.w3schools.com/js/default.asp) 
+[![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/) [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](https://www.oracle.com/legal/logos.html) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://spdx.org/licenses/MIT) 
 
 
 [![PY](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.python.org/)
