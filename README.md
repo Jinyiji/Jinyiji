@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](github.com/Jinyiji/TODO-List)
 
 
-[![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visual studio&logoColor=white)](github.com/Jinyiji/TODO-List)
+[![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visual studio&logoColor=black)](github.com/Jinyiji/TODO-List)
 
 <!--	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
