@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 [![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=withe)](github.com/Jinyiji/TODO-List)
 
 	
+[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](github.com/Jinyiji/TODO-List)
+
 
 <!--	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
