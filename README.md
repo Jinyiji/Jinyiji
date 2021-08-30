@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Jinyiji/TODO-List) [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](github.com/Jinyiji/TODO-List)
 
+[![PS](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](github.com/Jinyiji/TODO-List)
 
  
 
