@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  
 
-[![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=로고색)](관련된 내 링크)
+[![PY](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=withe)](github.com/Jinyiji/TODO-List)
 
 
 
