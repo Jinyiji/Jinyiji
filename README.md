@@ -22,13 +22,16 @@ Here are some ideas to get you started:
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Jinyiji/TODO-List)
 
- 
-
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=withe)](github.com/Jinyiji/TODO-List)
-
 	
 [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](github.com/Jinyiji/TODO-List)
 
+
+ 
+
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](github.com/Jinyiji/TODO-List)
+
+
+[![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](github.com/Jinyiji/TODO-List)
 
 <!--	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
