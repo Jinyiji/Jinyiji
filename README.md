@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://visualstudio.microsoft.com/ko/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/ko/docs/Learn/HTML)
 [![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/ko/)
 [![VSC](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://visualstudio.microsoft.com/ko/)
 
