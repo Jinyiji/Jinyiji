@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp 
 <a href="https://blog.naver.com/jineg13"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-badge&logo=gmail&logoColor=white"/></a> &nbsp 
+<a href="https://www.facebook.com/profile.php?id=100013531959497"><img src="https://img.shields.io/badge/Facebook-03C75A?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp 
 <a href="https://github.com/Jinyiji"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white">
 	
 	
