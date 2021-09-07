@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 <p align="center">	
 <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp 
 <a href="https://blog.naver.com/jineg13"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white"/></a> &nbsp 
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-badge&logo=gmail&logoColor=white"/></a> &nbsp 
+	
 <!--	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 	
