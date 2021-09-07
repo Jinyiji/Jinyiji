@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 <a href="https://blog.naver.com/jineg13"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-badge&logo=gmail&logoColor=white"/></a> &nbsp 
 	
+	
 <!--	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 	
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 	
 -->
-
 
 
 ![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&show_icons=true&theme=radical)
