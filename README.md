@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/PyCharm-333333?style=flat-badge&logo=pycharm&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Notion-8C8C8C?style=flat-badge&logo=notion&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white">
 
  
