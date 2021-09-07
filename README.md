@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<a href="https://www.java.com/ko/"> <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/></a> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> 
+<a href="https://www.java.com/ko/"> <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/></a> &nbsp 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/></a> <br>
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> &nbsp 
 <a href="https://github.com/Jinyiji"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white">
 
  
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🔥 My Account 🔥</b></h3>
 </br>
 <p align="center">	
-<a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> 
+<a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp 
 <a href="https://blog.naver.com/jineg13"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white"/></a> 
 
 <!--	
