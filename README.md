@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
 
 
+
+<h3 align="center"><b>🔥My Account🔥</b></h3>
+</br>
+<p align="center">	
 <img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp 
 
 
