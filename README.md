@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white)](https://www.mysql.com/)
- 
+
  
 [![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/)
 [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe)](https://www.oracle.com/legal/logos.html)
