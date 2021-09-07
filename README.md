@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🔥 My Account 🔥</b></h3>
 </br>
 <p align="center">	
-[![Inst](https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white)](https://github.com/Jinyiji/github-readme-stats)
+<a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> 
 
 
 <!--	
