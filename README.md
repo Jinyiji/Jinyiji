@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/PyCharm-000023?style=flat-square&logo=pycharm&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/PyCharm-333333?style=flat-square&logo=pycharm&logoColor=white"/></a> &nbsp 
  
  
  
