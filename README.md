@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-badge&logo=c&logoColor=white"/></a> <br>
+<img src="https://img.shields.io/badge/Clanguage-A8B9CC?style=flat-badge&logo=c language&logoColor=white"/></a> <br>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/></a> &nbsp -->
