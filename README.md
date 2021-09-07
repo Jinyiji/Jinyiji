@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=java&logoColor=withe"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/PyCharm-IFDA11?style=flat-badge&logo=pycharm&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/PyCharm-IFDA11?style=flat-badge&logo=pycharm&logoColor=white"/></a> &nbsp <br>
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/></a> &nbsp -->
+</br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a> &nbsp 
