@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">	
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
 
