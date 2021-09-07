@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=withe"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white"/></a> &nbsp 
@@ -34,24 +34,11 @@ Here are some ideas to get you started:
  
 <h3 align="center"><b>🎆🎇Tools🎇🎆</b></h3>
 </br>
-<p align="center">
-	
-[![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/)
-
-<!-- [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://spdx.org/licenses/MIT)  -->
-
-
-
-
-
-
-
-[![PS](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
-
-
-
-[![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/ko/)
-[![VSC](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://visualstudio.microsoft.com/ko/)
+<p align="center">	
+<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
 
 
 <!--	
@@ -65,15 +52,11 @@ Here are some ideas to get you started:
 
 
 
-
-
-
 ![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&langs_count=8)](https://github.com/Jinyiji/github-readme-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&layout=compact)](https://github.com/Jinyiji/github-readme-stats) -->
-
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF5B91&title_bg=%239800BC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
