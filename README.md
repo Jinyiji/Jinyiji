@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">	
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> (https://www.instagram.com/j_gwaaho/)
-
+[![Inst](https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white)](https://github.com/Jinyiji/github-readme-stats)
 
 
 <!--	
