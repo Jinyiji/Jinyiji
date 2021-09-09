@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 -->
 
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YijiJin)](https://solved.ac/YijiJin/)
+[![Jinyiji.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YijiJin)](https://solved.ac/YijiJin/)
 
 
 
