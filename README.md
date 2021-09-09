@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 	
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://Jinyiji.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 ![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&show_icons=true&theme=radical)
