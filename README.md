@@ -70,9 +70,8 @@ Here are some ideas to get you started:
 
 ![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&show_icons=true&theme=radical)
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&langs_count=8)](https://github.com/Jinyiji/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true)](https://github.com/Jinyiji/github-readme-stats)
+<br>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&layout=compact)](https://github.com/Jinyiji/github-readme-stats) -->
