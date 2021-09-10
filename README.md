@@ -67,16 +67,11 @@ Here are some ideas to get you started:
 <!-- [![Jinyiji.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Jinyiji)](https://solved.ac/Jinyiji/) -->
 
 ![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true)
-
-![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&show_icons=true&theme=radical)
-	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true)](https://github.com/Jinyiji/github-readme-stats)
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jinyiji&theme=omni&show_icons=true)](https://github.com/Jinyiji/github-readme-stats)
 
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&hide=javascript,html)](https://github.com/Jinyiji/github-readme-stats)
 
 
 
