@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 	
 	
 	
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.acJinyiji](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!-- [![Jinyiji.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Jinyiji)](https://solved.ac/Jinyiji/) -->
 
