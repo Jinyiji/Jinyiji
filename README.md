@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 	
 	
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jinyiji)](https://solved.ac/kinetic27)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jinyiji)](https://solved.ac/Jinyiji)
 	
 	
 
