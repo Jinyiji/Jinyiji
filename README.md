@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=text=capsule_render&animation=fadeIn&section=header&text=Jin%20Yiji&fontSize=90)
+![header](https://capsule-render.vercel.app/waving&color=auto&height=300/api?type=text=capsule_render&animation=fadeIn&section=header&text=Jin%20Yiji&fontSize=90)
 
 
 
