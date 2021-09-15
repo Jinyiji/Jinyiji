@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=color&height=300&section=header&text=Jin%20yiji&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+
+
+
+
+
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
