@@ -78,8 +78,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true)](https://github.com/Jinyiji/github-readme-stats)
 <br>
 	
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact)](https://github.com/Jinyiji/github-readme-stats) -->
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jinyiji&theme=omni&show_icons=true)](https://github.com/Jinyiji/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact)](https://github.com/Jinyiji/github-readme-stats)
 
 
 
