@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-badge&logo=gmail&logoColor=white"/></a> &nbsp 
 <!-- <a href="https://blog.naver.com/jineg13"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-badge&logo=twitter&logoColor=white"/></a> &nbsp -->
-<a href="https://velog.io/@jinyiji"> <img src="https://img.shields.io/badge/Velog-81D8CF?style=flat-badge&logo=velog&logoColor=white"/></a> &nbsp 												 
+<a href="https://velog.io/@jinyiji"> <img src="https://img.shields.io/badge/Velog-81D8CF?style=flat-badge&logo=velog&logoColor=white"/></a> &nbsp 				
+											     
+<img src="https://camo.githubusercontent.com/fe4c5886726a4a11c7a8380bddb273de7449d521ad1f958876c982cf0c380b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f672d3230633939373f7374796c653d666f722d7468652d737175617265266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465">
 <a href="https://www.facebook.com/profile.php?id=100013531959497"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a><br>
 <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp 
 <a href="https://github.com/Jinyiji"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white">
