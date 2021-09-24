@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/></a> &nbsp 
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> 
 
  
  
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> <br>
 <a href=https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-47C83E?style=flat-badge&logo=pycharm&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a>
 
 
 
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true)](https://github.com/Jinyiji/github-readme-stats)
 <br>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact)](https://github.com/Jinyiji/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact)](https://github.com/Jinyiji/github-readme-stats) -->
 
 
 
