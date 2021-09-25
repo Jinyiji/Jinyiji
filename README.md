@@ -66,20 +66,22 @@ Here are some ideas to get you started:
 <p align="center">	
 <a href="https://www.facebook.com/profile.php?id=100013531959497"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp 
 <a href="https://twitter.com/home"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-badge&logo=twitter&logoColor=white"/></a> &nbsp
-<a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> <br>
 
 	
 	
 	
 <!--  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jinyiji)](https://solved.ac/Jinyiji) -->
-	
-![Jinyiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true)](https://github.com/Jinyiji/github-readme-stats)
-<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true"/> &nbsp
+<a href="https://github.com/Jinyiji/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true"/> 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact)](https://github.com/Jinyiji/github-readme-stats) -->
 
 
 
 
-<p align="center">
+<p align="center"> <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF79C6&title_bg=%23A04BD7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+	
+	
+	
