@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <p align="center">	
 <a href="https://www.eclipse.org/downloads/"> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/></a> &nbsp 
 <a href="https://visualstudio.microsoft.com/ko/"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp 
-<a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> <br>
-<a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a> &nbsp
+<a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> &nbsp
+<a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a> &nbsp
 <a href="https://atom.io/"> <img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a> 
 
 
