@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/"> <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-badge&logo=youtube&link=https://www.youtube.com/c/kyleschool"/> &nbsp
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-badge&logo=gmail&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white"/></a> &nbsp 
-<a href="https://velog.io/@jinyiji"><img src="https://camo.githubusercontent.com/fe4c5886726a4a11c7a8380bddb273de7449d521ad1f958876c982cf0c380b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f672d3230633939373f7374796c653d666f722d7468652d737175617265266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465"/></a> 
+<a href="https://velog.io/@jinyiji"><img src="https://camo.githubusercontent.com/fe4c5886726a4a11c7a8380bddb273de7449d521ad1f958876c982cf0c380b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f672d3230633939373f7374796c653d666f722d7468652d737175617265266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465"/></a> <br>
 <a href="https://hub.docker.com/u/yijijin"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-badge&logo=docker&logoColor=white"/></a> &nbsp
 <a href="https://www.notion.so/"> <img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> &nbsp
 <a href="https://github.com/Jinyiji"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/></a>
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <!--  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jinyiji)](https://solved.ac/Jinyiji) -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true"/> &nbsp
-<a href="https://github.com/Jinyiji/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true"/> 
+<a href="https://github.com/Jinyiji/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true"/> <br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact)](https://github.com/Jinyiji/github-readme-stats) -->
 
 
