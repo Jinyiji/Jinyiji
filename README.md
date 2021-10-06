@@ -61,16 +61,17 @@ Here are some ideas to get you started:
 <a href="https://www.notion.so/"> <img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> &nbsp
 <a href="https://github.com/Jinyiji"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/></a>
 
-	
 				
 				
-																	 
+
+
 <h3 align="center"><b>✨ Social ✨</b></h3></br>
 <p align="center">	
 <a href="https://www.facebook.com/profile.php?id=100013531959497"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp 
 <!-- <a href="https://twitter.com/home"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-badge&logo=twitter&logoColor=white"/></a> &nbsp -->
 <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> <br>
 
+	
 	
 	
 	
