@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 	
 	
 	
+	
 <!--  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jinyiji)](https://solved.ac/Jinyiji) -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true"/> &nbsp
