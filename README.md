@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/></a> &nbsp
@@ -35,7 +34,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-badge&logo=c&logoColor=white"/></a> 
 	
 
- 
  
  
 <h3 align="center"><b>💜 Tools 💜</b></h3></br>
@@ -63,7 +61,6 @@ Here are some ideas to get you started:
 
 				
 				
-
 
 <h3 align="center"><b>✨ Social ✨</b></h3></br>
 <p align="center">	
