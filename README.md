@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/></a> &nbsp
@@ -61,7 +60,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Jinyiji"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/></a>
 
 				
-				
+
 
 <h3 align="center"><b>✨ Social ✨</b></h3></br>
 <p align="center">	
