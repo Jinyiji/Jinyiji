@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jin%20Yiji&fontSize=90)
 
 
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/></a> &nbsp
