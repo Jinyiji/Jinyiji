@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jin%20Yiji&fontSize=90)
-
+<img src="C:\Users\82102\Pictures\배경화면\하울의심장.gif" width="500", height="247">
 
 
 
