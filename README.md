@@ -71,7 +71,8 @@ Here are some ideas to get you started:
 	
 <!--  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jinyiji)](https://solved.ac/Jinyiji) -->
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true"/> <a href="https://github.com/Jinyiji/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true"/><a href="https://github.com/Jinyiji/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact"/>
 <!-- <a href="https://github.com/Jinyiji/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true"/> --> 
 
 	
