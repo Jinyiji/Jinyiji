@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jin%20Yiji&fontSize=90)
 <p align="center">	
 <img src="https://user-images.githubusercontent.com/73942023/144770972-17cb5203-9c0d-4c5c-adc3-af7a69bf68e1.gif">
