@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73942023/144770972-17cb5203-9c0d-4c5c-adc3-af7a69bf68e1.gif">
 <!-- <img src="https://user-images.githubusercontent.com/73942023/144771272-6ee5d22a-2002-4a40-819b-89ac0cc00080.gif"> -->
 
-
 	
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
