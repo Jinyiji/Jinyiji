@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true"/> <a href="https://github.com/Jinyiji/github-readme-stats"> &nbsp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact"/>
 <!-- <a href="https://github.com/Jinyiji/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true"/> --> 
-
+<!-- [![Jintiji's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jinyiji )](https://github.com/Jinyiji/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jinyiji&repo=github-readme-stats)](https://github.com/Jinyiji/github-readme-stats) -->
 	
 
 <p align="center"> <br>
