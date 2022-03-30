@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 	
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
 <p align="center">
-<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/></a> &nbsp
 <a href="https://www.java.com/ko/"> <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/></a> &nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
 <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
@@ -42,7 +41,8 @@ Here are some ideas to get you started:
 <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
 <a href="https://www.jetbrains.com/company/brand/"> <img src="https://img.shields.io/badge/IntelliJ IDEA-0071C5?style=flat-badge&logo=IntelliJ IDEA&logoColor=white"/></a> &nbsp 
 <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-badge&logo=Wireshark&logoColor=white"/></a>  &nbsp
-<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a>  &nbsp
+<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> <br>
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/></a> &nbsp
 <a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a>  &nbsp
 <a href="https://atom.io/"> <img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a>
 
