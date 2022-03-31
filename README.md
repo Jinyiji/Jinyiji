@@ -42,10 +42,11 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/company/brand/"> <img src="https://img.shields.io/badge/IntelliJ IDEA-0071C5?style=flat-badge&logo=IntelliJ IDEA&logoColor=white"/></a> &nbsp 
 <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-badge&logo=Wireshark&logoColor=white"/></a>  &nbsp
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> <br>
-<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/></a> &nbsp
+<a href="https://www.oracle.com/kr/database/"> <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/></a> &nbsp
 <a href="https://www.sublimetext.com/"> <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-badge&logo=Sublime Text&logoColor=white"/></a> &nbsp
 <a href="https://tomcat.apache.org/download-80.cgi"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-badge&logo=Apache Tomcat&logoColor=white"/></a>  &nbsp
 <a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a>  &nbsp
+<a href="https://nodejs.org/en/about/resources/"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp 
 <a href="https://atom.io/"> <img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a>
 
 
