@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <!-- **Jinyiji/Jinyiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <a href="https://tomcat.apache.org/download-80.cgi"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-badge&logo=Apache Tomcat&logoColor=white"/></a>  &nbsp
 <a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a>  &nbsp
 <a href="https://nodejs.org/en/about/resources/"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp 
+<a href="https://docs.djangoproject.com/ko/4.0/howto/windows/"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-badge&logo=Django&logoColor=white"/></a> &nbsp 
 <a href="https://atom.io/"> <img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a>
 
 
