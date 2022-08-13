@@ -94,6 +94,16 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/Jinyiji/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&show_icons=true"/> --> 
 <!-- [![Jintiji's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jinyiji )](https://github.com/Jinyiji/github-readme-stats) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jinyiji&repo=github-readme-stats)](https://github.com/Jinyiji/github-readme-stats) -->
+
+
+
+<h3 align="center"><b>💗 Commit 💗</b></h3></br>
+<p align="center">
+<!-- <img src="https://ghchart.rshah.org/Jinyiji"/> <!-- 연두 -->
+<!-- <img src="https://ghchart.rshah.org/6699CC/Jinyiji"/> <!-- 파랑 -->
+<!-- <img src="https://ghchart.rshah.org/FF99CC/Jinyiji"/> <!-- 연분홍 -->
+<img src="https://ghchart.rshah.org/FF3399/Jinyiji"/> <!-- 분홍 -->
+<!-- <img src="https://ghchart.rshah.org/660066/Jinyiji"/> <!-- 보라 -->
 	
 
 <p align="center"> <br>
