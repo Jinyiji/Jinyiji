@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <p align="center">
 <!--  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Jinyiji)](https://solved.ac/Jinyiji) -->
 <a href="https://github.com/Jinyiji/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true"/></a> &nbsp 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact"/> -->
 	
 <!-- <a href="https://www.credly.com/earner/earned"> <img src= "https://user-images.githubusercontent.com/73942023/152189383-c7ceaf5a-f36a-480d-87d2-0f11726e2d15.png" width="150" height="150"></a> // MTA자격증 사진 -->
 
