@@ -108,7 +108,6 @@ Here are some ideas to get you started:
 <img src="https://ghchart.rshah.org/FF3399/Jinyiji"/> <!-- 분홍 -->
 <!-- <img src="https://ghchart.rshah.org/660066/Jinyiji"/> <!-- 보라 -->
 	
-
 <p align="center"> <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinyiji&count_bg=%23FF6BCF&title_bg=%238F00A8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"/>
 
