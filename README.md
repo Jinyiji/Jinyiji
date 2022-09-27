@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/ko/"> <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/></a> &nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
 <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
+<a href="https://www.figma.com/using-the-figma-brand/"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-badge&logo=figma&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp 
 <!-- <a href="https://spring.io/"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=Spring&logoColor=white"/></a> &nbsp 
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-badge&logo=C Sharp&logoColor=withe"/></a> </br> -->
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/kr/products/photoshop.html"> 
 	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-badge&logo=c&logoColor=white"/></a> &nbsp  -->
-<a href="https://www.figma.com/using-the-figma-brand/"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-badge&logo=figma&logoColor=white"/></a> 
+
 	
 
  
