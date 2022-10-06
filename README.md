@@ -63,17 +63,17 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center"><b>🔥 My Account 🔥</b></h3>
+<!-- <h3 align="center"><b>🔥 My Account 🔥</b></h3>
 </br>
 <p align="center">	
-<!-- <a href="https://www.youtube.com/"> <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-badge&logo=youtube&link=https://www.youtube.com/c/kyleschool"/></a> &nbsp -->
+<!-- <a href="https://www.youtube.com/"> <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-badge&logo=youtube&link=https://www.youtube.com/c/kyleschool"/></a> &nbsp
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-badge&logo=gmail&logoColor=white"/></a> &nbsp 
 <a href="https://www.naver.com/"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white"/></a> &nbsp 
 <a href="https://velog.io/@jinyiji"><img src="https://camo.githubusercontent.com/fe4c5886726a4a11c7a8380bddb273de7449d521ad1f958876c982cf0c380b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f672d3230633939373f7374796c653d666f722d7468652d737175617265266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465"/></a> &nbsp
 <a href="https://hub.docker.com/u/yijijin"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-badge&logo=docker&logoColor=white"/></a> &nbsp
 <a href="https://brand.linkedin.com/policies"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
 <a href="https://www.notion.so/"> <img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> &nbsp
-<a href="https://github.com/Jinyiji"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Jinyiji"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/></a> -->
 	
 
 				
