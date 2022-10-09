@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/></a> &nbsp -->
 <a href="https://www.python.org/"> 
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/></a> &nbsp 
-<a href="https://www.adobe.com/kr/products/photoshop.html"> 
-	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-badge&logo=c&logoColor=white"/></a> &nbsp  -->
 
 	
@@ -58,6 +56,8 @@ Here are some ideas to get you started:
 <br>
 <a href="https://brand.unity.com/"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-badge&logo=Unity&logoColor=black"/></a> &nbsp
 <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/></a> &nbsp
+<a href="https://www.adobe.com/kr/products/photoshop.html"> 
+	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <a href="https://atom.io/"> <img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a>
 
 
