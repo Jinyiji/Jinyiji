@@ -103,12 +103,12 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center"><b>💗 Commit 💗</b></h3></br>
+<!-- <h3 align="center"><b>💗 Commit 💗</b></h3></br>
 <p align="center">
 <!-- <img src="https://ghchart.rshah.org/Jinyiji"/> <!-- 연두 -->
 <!-- <img src="https://ghchart.rshah.org/6699CC/Jinyiji"/> <!-- 파랑 -->
 <!-- <img src="https://ghchart.rshah.org/FF99CC/Jinyiji"/> <!-- 연분홍 -->
-<img src="https://ghchart.rshah.org/FF3399/Jinyiji"/> <!-- 분홍 -->
+<!-- <img src="https://ghchart.rshah.org/FF3399/Jinyiji"/> <!-- 분홍 -->
 <!-- <img src="https://ghchart.rshah.org/660066/Jinyiji"/> <!-- 보라 -->
 	
 <p align="center"> <br>
